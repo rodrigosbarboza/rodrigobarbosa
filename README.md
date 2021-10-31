@@ -1,7 +1,8 @@
 ### Olá!! Eu sou Rodrigo Barbosa 👋
 
 - 👨‍💻 Hoje trabalho com Desenvolvimento Front End
-- 🎓 Sou graduando de Análise e Desenvolvimento de Sistemas
+- 🌳 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
+- 🎓 Estou graduando em Análise e Desenvolvimento de Sistemas pela Unimetrocamp
 - 💡 Atualmente estudo: React, NextJs e Typescript
 - 😉 Pronomes: ele/dele
 
@@ -23,6 +24,8 @@
 </div>
   
 ##
+  
+### Vem se conectar comigo ☕
 
  <div>
    <a href="https://www.linkedin.com/in/rodrigos-barbosa/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
