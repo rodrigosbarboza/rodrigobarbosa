@@ -1,9 +1,9 @@
 ### Olá!! Eu sou Rodrigo Barbosa 👋
 
 - 👨‍💻 Hoje trabalho com Desenvolvimento Front End
-- 🎓 Sou graduando em Análise e Desenvolvimento de Sistem
-- 💡 Atualmente estudando: React e NextJs
-- 😉 Pronoums: ele/dele
+- 🎓 Sou graduando de Análise e Desenvolvimento de Sistemas
+- 💡 Atualmente estudo: React, NextJs e Typescript
+- 😉 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/rodrigosbarboza">
