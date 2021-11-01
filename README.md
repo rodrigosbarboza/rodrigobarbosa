@@ -2,8 +2,8 @@
 
 - 👨‍💻 Hoje trabalho com Desenvolvimento Front End
 - 🌳 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
-- 🎓 Estou graduando em Análise e Desenvolvimento de Sistemas pela Unimetrocamp
-- 💡 Atualmente estudo: React, NextJs e Typescript
+- 🎓 Estudo Análise e Desenvolvimento de Sistemas na Unimetrocamp|Wyden
+- 💡 Atualmente estou aprimorando os conhecimentos de front end com React, NextJs e Typescript
 - 😉 Pronomes: ele/dele
 
 <div>
