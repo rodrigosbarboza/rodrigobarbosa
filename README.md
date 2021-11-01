@@ -1,10 +1,10 @@
 ### Olá!! Eu sou Rodrigo Barbosa 👋
 
 - 👨‍💻 Hoje trabalho com Desenvolvimento Front End
-- 🌳 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
+- 🧑🏽‍🔬 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas na Unimetrocamp|Wyden
 - 💡 Atualmente estou aprimorando os conhecimentos de front end com React, NextJs e Typescript
-- 😉 Pronomes: ele/dele
+- 🤷🏻 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/rodrigosbarboza">
