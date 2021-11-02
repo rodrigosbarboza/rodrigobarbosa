@@ -3,7 +3,6 @@
 - 👨‍💻 Hoje trabalho com Desenvolvimento Front End
 - 🧑🏽‍🔬 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas na Unimetrocamp|Wyden
-- 💡 Atualmente estou aprimorando os conhecimentos de front end com React, NextJs e Typescript
 - 🤷🏻 Pronomes: ele/dele
 
 <div>
@@ -12,15 +11,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosbarboza&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  
+  #### 💻 Já codei com essas tecnologias:<br>
   <img align="center" alt="html"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="js"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="nodejs"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rodrigo-react"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Rodrigo-nextjs"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rodrigo-graphql"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="react"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Rodrigo-java"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+  #### 🚀 Estudando:
+  <img align="center" alt="nodejs"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="nextjs"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="graphql"  heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   
 </div>
   
