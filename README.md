@@ -1,10 +1,10 @@
 ### Olá!! Eu sou Rodrigo Barbosa 👋
 
-- 👨‍💻 Hoje trabalho como Dev Front End (Dreamer 21) no iFood
+- 👨‍💻 Hoje trabalho como Engenheiro de Software no iFood
 - 🧳 Curto passeios para conhecer lugares novos, fazer amizades
 - 🧑🏽‍🔬 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
-- 🎓 Estudo Tecnologia em Análise e Desenvolvimento de Sistemas na Unimetrocamp|Wyden
-- 🤷🏻 Pronomes: ele/dele
+- 🎓 Estou cursando Ciência da Computação na Faculdade Descomplica
+- 🤷🏻 Pronomes: Ele/dele
 
 <div>
   <a href="https://github.com/rodrigosbarboza">
