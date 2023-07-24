@@ -1,10 +1,8 @@
 ### Olá!! Eu sou Rodrigo Barbosa 👋
 
 - 👨‍💻 Hoje trabalho como Engenheiro de Software no iFood
-- 🧳 Curto passeios para conhecer lugares novos, fazer amizades
 - 🧑🏽‍🔬 Sou formado em Engenharia Ambiental pela Universidade Nilton Lins
-- 🎓 Estou cursando Ciência da Computação na Faculdade Descomplica
-- 🤷🏻 Pronomes: Ele/dele
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp
 
 <div>
   <a href="https://github.com/rodrigosbarboza">
